@@ -12,7 +12,7 @@ To install the development version of INGRID, it's easiest to use the 'devtools'
 ```
 #install.packages("devtools")
 library(devtools)
-install_github("sunny-zq/INGRID")
+install_github("dongjunchung/INGRID")
 ```
 
 Usage
